@@ -2,9 +2,9 @@
 
 <a href="https://www.linkedin.com/in/kartik-sharma-6b47b3210/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" align="right"></a>
 
-🎓 **Currently pursuing a B.Tech in Information Technology** from [IPEC Ghaziabad](https://www.ipec.org.in/).  
-💡 Passionate about software development, open-source contributions, and staying updated with the latest technologies!  
-🔧 Focused on mastering **Java**, **Spring Framework**, **JavaScript**, and **ReactJS**.
+💼 **Currently working as a Java Full Stack Developer** at **Cognizant**, where I contribute to building and maintaining **enterprise-level banking applications**.  
+💡 Passionate about **software development**, **open-source contributions**, and staying updated with the latest technologies.  
+🔧 Focused on mastering **Java**, **Spring Boot**, **Microservices**, **ReactJS**, and **frontend technologies**.
 
 ---
 
@@ -32,6 +32,13 @@
 ---
 
 ## 🧑‍💻 Professional Experience
+
+### **Java Full Stack Developer** | **Cognizant** | Bengaluru, Karnataka  
+**Aug 2024 – Present**  
+- Currently working as a **Java Full Stack Developer** at **Cognizant**, contributing to the development and maintenance of **enterprise-level banking applications**.
+- Collaborate with cross-functional teams to build software solutions using **Java**, **Spring Boot**, **Microservices**, and **ReactJS**.
+- Focus on ensuring seamless integration of **backend** and **frontend** components, improving system performance, and enhancing user experience in financial applications.  
+- Tech Stack: **Java**, **Spring Boot**, **Microservices**, **ReactJS**, **REST APIs**.
 
 ### **Java Full Stack Developer Intern** | **Cognizant** | Pune, Maharashtra  
 **Dec 2023 – May 2024**  
@@ -92,7 +99,7 @@ A React-based Movie/Series Review App that fetches real-time ratings for the lat
 
 ## 📈 Contribution Graph
 
-![Kartik Sharma's Activity Graph](https://activity-graph.herokuapp.com/graph?username=krtksharma&theme=xcode)
+![Kartik Sharma's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=krtksharma&theme=xcode)
 
 ---
 
