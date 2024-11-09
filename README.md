@@ -99,7 +99,7 @@ A React-based Movie/Series Review App that fetches real-time ratings for the lat
 
 ### Contribution Graph
 
-![Kartik Sharma's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=krtksharma&theme=xcode)
+![Kartik Sharma's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krtksharma&theme=react)
 
 ---
 
@@ -112,7 +112,6 @@ A React-based Movie/Series Review App that fetches real-time ratings for the lat
 ## 📬 Contact Me
 
 - 📧 **Email**: [krtksharma7@gmail.com](mailto:krtksharma7@gmail.com)  
-- 📱 **Phone**: +91 9560486491
 
 ---
 
