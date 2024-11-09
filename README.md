@@ -97,9 +97,9 @@ A React-based Movie/Series Review App that fetches real-time ratings for the lat
 
 ---
 
-## 📈 Contribution Graph
+### Contribution Graph
 
-![Kartik Sharma's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=krtksharma&theme=xcode)
+<img width="100%" alt="Kartik Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=krtksharma&theme=xcode" /></a>
 
 ---
 
