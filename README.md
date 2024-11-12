@@ -1,35 +1,12 @@
-## Hey there 👋 I'm [Kartik Sharma](https://www.linkedin.com/in/kartik-sharma-6b47b3210/)!
+# 💫 About Me:
+Hi there 👋 I'm Kartik Sharma!<br><br>💼 Currently working as a Java Full Stack Developer at Cognizant, where I contribute to building and maintaining enterprise-level banking applications.<br>💡 Passionate about software development, open-source contributions, and staying updated with the latest technologies.<br>🔧 Focused on mastering Java, Spring Boot, Microservices, ReactJS, and frontend technologies.
 
-<a href="https://www.linkedin.com/in/kartik-sharma-6b47b3210/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" align="right"></a>
 
-💼 **Currently working as a Java Full Stack Developer** at **Cognizant**, where I contribute to building and maintaining **enterprise-level banking applications**.  
-💡 Passionate about **software development**, **open-source contributions**, and staying updated with the latest technologies.  
-🔧 Focused on mastering **Java**, **Spring Boot**, **Microservices**, **ReactJS**, and **frontend technologies**.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-sharma-6b47b3210) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/krtksharma7) 
 
----
-
-## 🛠️ Technologies & Tools
-
-- **Languages & Frameworks:**
-  - ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
-  - ![C++](https://img.shields.io/badge/C++-333333?style=flat&logo=C++&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-  - ![React](https://img.shields.io/badge/React-333333?style=flat&logo=react)
-  - ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
-  - ![Spring](https://img.shields.io/badge/Spring-333333?style=flat&logo=spring&logoColor=6DB33F)
-
-- **Databases:**
-  - ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  
-- **Tools & Platforms:**
-  - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  - ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  - ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
-  - ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  - ![JUnit](https://img.shields.io/badge/-JUnit-333333?style=flat&logo=junit)
-
----
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ## 🧑‍💻 Professional Experience
 
@@ -56,20 +33,6 @@
 
 ---
 
-## 📚 Projects
-
-### **[Intelligent-Task-Management System](https://github.com/krtksharma/TaskManager)**  
-An intelligent task management system for real-time task creation, management, and collaboration. Built with the MERN stack.  
-- Tech Stack: **MongoDB**, **Express.js**, **ReactJS**, **Node.js**  
-- [View Demo](https://task-manager-frontend-jadeten.vercel.app/)
-
-### **[RevFlix](https://revflix.netlify.app/)**  
-A React-based Movie/Series Review App that fetches real-time ratings for the latest movies, series, and anime.  
-- Tech Stack: **ReactJS**, **JavaScript**  
-- [View Demo](https://revflix.netlify.app/)
-
----
-
 ## 🎓 Education
 
 ### **Bachelor of Technology** - Information Technology  
@@ -86,33 +49,23 @@ A React-based Movie/Series Review App that fetches real-time ratings for the lat
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=krtksharma&show_icons=true&theme=chartreuse-dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=krtksharma&theme=chartreuse-dark" />  
-  <br>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krtksharma&layout=compact&theme=chartreuse-dark&langs_count=6" />
-</p>
-
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=krtksharma&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=krtksharma&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krtksharma&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Contribution Graph
 
-![Kartik Sharma's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krtksharma&theme=react)
+![Kartik Sharma's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krtksharma&theme=gruvbox)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=krtksharma&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=krtksharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 👀 Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/krtksharma/count.svg)
-
----
-
-## 📬 Contact Me
-
-- 📧 **Email**: [krtksharma7@gmail.com](mailto:krtksharma7@gmail.com)  
-
----
-
-Feel free to check out my repositories and contributions on GitHub! 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
