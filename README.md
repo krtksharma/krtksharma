@@ -46,36 +46,28 @@ Hi there 👋 I'm **Kartik Sharma**. I specialize in engineering high-concurrenc
 
 ---
 
+## 📊 Engineering Metrics
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=krtksharma&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=krtksharma&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krtksharma&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krtksharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krtksharma&theme=dark&hide_border=false&layout=compact" height="170" />
+</p>
 
-### Contribution Graph
+### 📈 Activity Pulse
 
-![Kartik Sharma's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krtksharma&theme=gruvbox)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=krtksharma&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
-[![](https://visitcount.itsvg.in/api?id=krtksharma&icon=0&color=0)](https://visitcount.itsvg.in)
+![Kartik Sharma's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krtksharma&theme=gruvbox&area=true&hide_border=true)
 
 ---
 
 ## 🌐 Connect & Collaborate
 
 <p align="left">
-<a href="https://linkedin.com/in/kartik-sharma-6b47b3210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik-sharma" height="30" width="40" /></a>
-<a href="https://x.com/krtksharma7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krtksharma7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kartik-sharma-6b47b3210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://x.com/krtksharma7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </p>
